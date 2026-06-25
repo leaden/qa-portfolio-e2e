@@ -87,4 +87,4 @@ Cada ejecución genera un reporte HTML con el detalle de cada caso, su estado (p
 
 ---
 
-**Autor:** Tu Nombre · [LinkedIn](https://linkedin.com/in/tu-perfil) · [Portafolio](https://github.com/leaden)
+**Autor:** Maribel Diaz Jimenez · [LinkedIn](https://www.linkedin.com/in/maribel-d%C3%ADaz-jim%C3%A9nez-66b57168/) · [Portafolio](https://github.com/leaden)
